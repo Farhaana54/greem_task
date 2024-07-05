@@ -1,0 +1,236 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Borel', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'REM', sans-serif;
+}
+
+.header{
+    display: flex;
+    padding: 5px;
+    background-color:aquamarine;
+    position: sticky; 
+    top: 0%;
+    justify-content: space-between;
+}
+
+h2{
+    display: inline;
+    padding: 10px;
+    
+}
+
+li{
+    display: inline;
+    padding: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.navbar{
+    margin-right: 120px;
+    padding: 8px;
+}
+
+li:hover{
+    color: black;
+    cursor: pointer;
+}
+
+hr{
+    color: black 1px;
+    position: sticky;
+    top: 46px;
+    
+}
+
+img{
+    float: right;
+    border: solid black 1px;
+    margin-right: 50px;
+
+}
+
+.logo{
+    height: 220px;
+    background-color: aquamarine;
+    padding:10px;
+}
+
+.text1{
+    margin-left: 40px;
+}
+
+.text2{
+    font-size: larger;
+    margin-left: 40px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+.box1{
+    margin-left: 40px;
+}
+.box2{
+    margin-left: 2px;
+}
+
+.box3{
+    margin-left: 40px;
+    font-size: smaller;
+    color: gray;
+}
+
+.thirdpart{
+    background-color: white;
+    color: black;
+}
+.line1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.line2{
+    text-align: center;
+}
+
+.container{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    text-align: center;
+    width: 240px;
+    height: 170px;
+    border: solid black 2px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.imgbox{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one{
+    position:relative;
+    bottom: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.two{
+    position: static;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.three{
+    position:relative;
+    bottom: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.lastline{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.line3{
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.imgbox2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.images{
+    align-items: center;
+    text-align: center;
+}
+
+.images:hover{
+  transform: scale(1.15);
+}
+
+.fourthpart{
+    background-color: aquamarine;
+    width: 96%;
+    padding: 10px;
+    display: flex;
+}
+
+.img2{
+    float: left;
+    position: relative;
+    bottom:40px;
+    padding: 10px;
+}
+
+.rate{
+    text-align: left;
+    margin-top: 100px;
+}
+
+.star{
+    color: yellow;
+}
+
+.fivthpart{
+    background-color: white;
+    padding: 20px;
+  }
+  .word1{
+    text-align: center;
+  }
+  .word2{
+    padding: 10px;
+    text-align: left;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: 145%;
+  }
+  input{
+    width: 60%;
+    padding: 10px;
+  }
+
+
+  .icon{
+    text-align: center;
+  }
+
+  .sixthpart{
+    background-color:aquamarine;
+    height: 280px;
+    
+  }
+
+  .finalpart{
+      text-align: left;
+      margin-left: 40px;
+      position: relative;
+      top:80px;
+  }
+
+  .text3{
+      font-size: x-large;
+  }
